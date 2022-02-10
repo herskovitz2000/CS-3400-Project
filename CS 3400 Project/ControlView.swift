@@ -2,7 +2,7 @@
 //  ControlView.swift
 //  CS 3400 Project
 //
-//  Created by Nathan Herskovitz on 12/4/21.
+//  Last Modified by Nathan Herskovitz on 12/4/21.
 //
 
 import SwiftUI
